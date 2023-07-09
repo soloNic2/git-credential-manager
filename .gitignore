@@ -343,7 +343,6 @@ out/
 
 # Signing generated Files
 auth.json
-<<<<<<< HEAD
 input.json
 <<<<<<< Updated upstream
 .github/workflows/release-dotnet-tool.yaml
@@ -498,6 +497,3 @@ src/shared/Atlassian.Bitbucket/BitbucketAuthentication.cs
 .github/workflows/codeql-analysis.yml
 .github/ISSUE_TEMPLATE/auth-issue.yml
 >>>>>>> Stashed changes
-=======
-input.json
->>>>>>> parent of cb7ac45 (Update .gitignore)
