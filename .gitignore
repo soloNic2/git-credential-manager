@@ -344,3 +344,8 @@ out/
 # Signing generated Files
 auth.json
 input.json
+.github/pro-ingress-info(0).csv
+.github/pro-ingress-info.csv
+\[-q/
+src/shared/Core.Tests/Trace2MessageTests.cs
+src/shared/Core/Trace2Message.cs
